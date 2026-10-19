@@ -1,0 +1,4 @@
+com\datapars\digitodatos\App.class
+com\datapars\digitodatos\PrimaryController.class
+module-info.class
+com\datapars\digitodatos\SecondaryController.class

@@ -1,0 +1,4 @@
+com\datapars\gastossemana\App.class
+module-info.class
+com\datapars\gastossemana\PrimaryController.class
+com\datapars\gastossemana\SecondaryController.class
