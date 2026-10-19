@@ -1,0 +1,5 @@
+com\datapars\compraprod\Productos.class
+com\datapars\compraprod\PrimaryController.class
+com\datapars\compraprod\SecondaryController.class
+module-info.class
+com\datapars\compraprod\App.class
