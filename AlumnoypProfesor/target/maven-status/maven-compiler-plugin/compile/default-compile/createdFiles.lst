@@ -1,0 +1,7 @@
+com\datapars\alumnoypprofesor\Persona.class
+com\datapars\alumnoypprofesor\Profesor.class
+module-info.class
+com\datapars\alumnoypprofesor\Alumno.class
+com\datapars\alumnoypprofesor\App.class
+com\datapars\alumnoypprofesor\SecondaryController.class
+com\datapars\alumnoypprofesor\PrimaryController.class

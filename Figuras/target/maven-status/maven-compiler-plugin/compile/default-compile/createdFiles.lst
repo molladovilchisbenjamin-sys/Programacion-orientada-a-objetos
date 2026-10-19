@@ -1,0 +1,10 @@
+com\datapars\figuras\SecondaryController.class
+com\datapars\figuras\PrimaryController.class
+module-info.class
+com\datapars\figuras\TrianguloRect.class
+com\datapars\figuras\FiguraPlana.class
+com\datapars\figuras\Circulo.class
+com\datapars\figuras\Figura2D.class
+com\datapars\figuras\App.class
+com\datapars\figuras\FiguraRecta.class
+com\datapars\figuras\FiguraCircular.class
