@@ -11,15 +11,15 @@ import java.io.IOException;
 public class App extends Application {
 
     @Override
-    public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("/com/datapars/fabula/primary.fxml"));
-        Parent root = fxmlLoader.load();
-        
-        Scene scene = new Scene(root, 400, 450);
-        
-        stage.setTitle("Liebre vs Tortuga");
-        stage.setScene(scene);
-        stage.show();
+    public void start(Stage ventana) throws IOException {
+        FXMLLoader cargador = new FXMLLoader(App.class.getResource("/com/datapars/fabula/primary.fxml"));
+        Parent raiz = cargador.load();
+
+        Scene escena = new Scene(raiz, 400, 450);
+
+        ventana.setTitle("Liebre vs Tortuga");
+        ventana.setScene(escena);
+        ventana.show();
     }
 
     public static void main(String[] args) {
